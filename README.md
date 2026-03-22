@@ -4,6 +4,14 @@
 
 End-to-end audiovisual production: from shooting to final delivery.
 
+## ⚙ Services
+
+🎬 Editorial video production  
+✂️ Video editing  
+🎨 Color grading  
+🎧 Audio post production  
+📦 Final delivery mastering  
+
 ---
 
 ## 🎬 Reel
