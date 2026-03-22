@@ -67,16 +67,29 @@ Documentary storytelling
 
 ## 🛠 Tools
 
-Video:
-DaVinci Resolve  
-Premiere Pro  
+### 🎬 Video
+🎞 DaVinci Resolve  
+🎞 Premiere Pro  
+🎨 Dehancer Pro  
+📦 Compressor  
 
-Audio:
-Pro Tools Studio  
-Ableton Live  
+### 🎧 Audio
+🎚 Pro Tools Studio  
+🎹 Ableton Live  
 
-Hardware:
-SSL 12  
+### 💻 Hardware
+🖥 Mac Studio  
+🎛 SSL 12  
+🔊 Adam T7V  
+
+### 📷 Production Gear
+📷 Sony Alpha  
+🔍 Sigma Lenses  
+🎤 Pro Audio Mic 
+    Shotgun microphone
+    Lavalier microphones
+🎙 Zoom R20 Multitrack (Podcast)  
+🚁 DJI Mavic Air 2
 
 ---
 
