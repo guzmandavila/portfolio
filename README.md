@@ -1,6 +1,6 @@
 # Ronald Guzman
 
-🎬 Post Producer | Video Editor | Colorist
+🎬 Post Producer | ✂️ Video Editor | 🎨 Colorist | 🎧 Audio Post
 
 Specialized in editing, color grading and final delivery with professional audio post workflows (Pro Tools).
 
