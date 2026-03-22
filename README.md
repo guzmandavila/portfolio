@@ -6,6 +6,8 @@ Audiovisual producer specialized in end-to-end production: shooting, editing, co
 
 Experience working with editorial teams, brands and international collaborators.
 
+Based in Ecuador | Available for remote projects worldwide
+
 ---
 
 ## 🎬 Reel
