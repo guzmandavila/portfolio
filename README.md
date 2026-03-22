@@ -6,7 +6,7 @@
 
 ## 🎬 Reel
 
-(link)
+[![Reel](https://img.youtube.com/vi/rhUEiaQfEJ4/0.jpg)](https://youtu.be/rhUEiaQfEJ4)
 
 ---
 
