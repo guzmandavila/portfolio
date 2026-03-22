@@ -1,8 +1,8 @@
 # Ronald Guzmán Dávila 
 
-🎬 Post Producer | ✂️ Video Editor | 🎨 Colorist | 🎧 Audio Post
+🎬 Producer | 🎥 Shooter | ✂️ Editor | 🎨 Color | 🎧 Audio Post
 
-Specialized in editing, color grading and final delivery with professional audio post workflows (Pro Tools).
+End-to-end audiovisual production: from shooting to final delivery.
 
 ---
 
@@ -11,11 +11,14 @@ Specialized in editing, color grading and final delivery with professional audio
 [![Reel](https://img.youtube.com/vi/rhUEiaQfEJ4/0.jpg)](https://youtu.be/rhUEiaQfEJ4)
 
 **Roles:**
-Post Production  
+Production  
+Direction  
+Camera Operation  
+Drone Operation  
 Video Editing  
 Color Grading  
 Audio Post Production  
-Final Delivery  
+Final Delivery   
 
 **Tools used:**
 DaVinci Resolve  
