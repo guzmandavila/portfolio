@@ -93,7 +93,29 @@ Documentary storytelling
 
 ## 🧪 Technical Lab
 
-(esto será tu blog después)
+### Audio finishing workflow for interviews
+
+**Goal:**
+Deliver clean dialogue for editorial video.
+
+**Process:**
+
+1 Dialogue cleanup in RX  
+2 EQ correction  
+3 Compression for consistency  
+4 Loudness normalization  
+5 Final mix check in Pro Tools  
+
+**Result:**
+Broadcast ready dialogue.
+
+**Tools:**
+Pro Tools  
+iZotope RX  
+SSL 12  
+
+**Lesson:**
+Always record lav + shotgun when possible.
 
 ---
 
