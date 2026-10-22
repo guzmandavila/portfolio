@@ -42,6 +42,19 @@ Production · Camera · Editing · Color · Audio post
 
 [▶ Watch interview ↗](https://www.youtube.com/watch?v=mGdqrWWpJr4)
 
+### 03 / Clowder
+**Web application development · Clowder Coffee House**
+
+<a href="https://clowder.cafe/"><img src="./assets/clowder-app-preview.png" width="100%" alt="Clowder web application: public menu with product categories"></a>
+
+I developed Clowder's web application for browsing the catalog, selecting products and preparing orders for WhatsApp. The interface includes category navigation, a shopping cart, product options, payment information and installation on mobile devices.
+
+**My work** / Interface development, ordering logic, menu configuration and web publishing.
+
+[↗ Open and use the application](https://clowder.cafe/)
+
+<br>
+
 <details>
 <summary>More documentary work</summary>
 
